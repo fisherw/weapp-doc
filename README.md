@@ -2,24 +2,35 @@
 小程序开发笔记
 
 # 代码及文件结构
+
 components/
+
 pages/
+
     index/components/
 
     index/index.json
+
     index/index.wxml
+
     index/index.wxss
+
     index/index.js
 
 app.js
+
 app.json
+
 app.wxss
 
 # 如何像前端H5一样编写小程序代码（脚手架）
 
 ## 1.格式转化
+
 wxml html
+
 wxss scss/css
+
 <image>   <img>
 
 ## 2.像js/html/css一样编译
@@ -27,8 +38,11 @@ wxss scss/css
 ## 3.路径转换、静态资源cdn上传
 
 ## 4.格式转化
+
 html wxml
+
 scss/css  wxss
+
 <img>  <image>
 
 # 其它成熟脚手架
