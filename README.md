@@ -3,35 +3,35 @@
 
 ## 代码及文件结构
 
-components/
+  components/
 
-pages/
+  pages/
 
-    index/components/
+      index/components/
 
-    index/index.json
+      index/index.json
 
-    index/index.wxml
+      index/index.wxml
 
-    index/index.wxss
+      index/index.wxss
 
-    index/index.js
+      index/index.js
 
-app.js
+  app.js
 
-app.json
+  app.json
 
-app.wxss
+  app.wxss
 
 ## 如何像前端H5一样编写小程序代码（脚手架）
 
 ### 1.格式转化
 
-wxml html
+  wxml html
 
-wxss scss/css
+  wxss scss/css
 
-<image>   <img>
+  <image>   <img>
 
 ### 2.像js/html/css一样编译
 
@@ -39,11 +39,11 @@ wxss scss/css
 
 ### 4.格式转化
 
-html wxml
+  html wxml
 
-scss/css  wxss
+  scss/css  wxss
 
-<img>  <image>
+  <img>  <image>
 
 ## 其它成熟脚手架
 
